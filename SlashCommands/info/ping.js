@@ -1,4 +1,4 @@
-const { Client, CommandInteraction } = require("discord.js");
+cont { Client, CommandInteraction } = require("discord.js");
 
 module.exports = {
     name: "ping",
