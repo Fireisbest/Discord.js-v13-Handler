@@ -10,6 +10,9 @@ discord.js is a powerful [Node.js](https://nodejs.org) module that allows you to
 - Performant
 - 100% coverage of the Discord API
 
+## NOTE
+You need Node 16 or higher to Use Discord.js 13
+
 ## New Features?
 
 - Slash Commands
